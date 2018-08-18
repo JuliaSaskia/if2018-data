@@ -1,0 +1,1 @@
+[{"somecat":"a","somedate":1534315428751,"somefloat":1.4,"someint":-1,"sometext":"foo"},{"somecat":"b","somedate":946684800000,"somefloat":0.0000123457,"someint":0,"sometext":"bar"},{"somecat":"b","somedate":null,"somefloat":null,"someint":42,"sometext":"baz"},{"somecat":"a","somedate":null,"somefloat":3.1415926536,"someint":1000,"sometext":null}]
